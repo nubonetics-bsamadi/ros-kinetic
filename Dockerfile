@@ -1,4 +1,4 @@
-FROM osrf/ros:kinetic-desktop
+FROM osrf/ros:kinetic-desktop-full-xenial
 MAINTAINER Matt Droter matt@rosagriculture.org
 
 # metadata
